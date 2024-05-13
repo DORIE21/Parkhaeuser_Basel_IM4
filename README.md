@@ -3,4 +3,3 @@
 
 18.10.2023
 Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
-

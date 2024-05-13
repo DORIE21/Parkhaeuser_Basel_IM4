@@ -3,3 +3,54 @@
 
 18.10.2023
 Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
+# StudyBuddy
+Kurzreflexion zur APP StudyBuddy 
+
+Planung und Umsetzung:
+Den Start der App konnten wir alle gemeinsam machen, danach haben wir uns aufgeteilt und immer wann es die Zeit bot, programmiert. 
+
+03.10.2023 
+Nachdem wir uns alle über Github verknüpft hatten, starteten wir mit dem Upload von CSS, HTML und JS Dateien. 
+Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst für CSS zu erstellen. 
+Dies sollte in der Form einer “Dating-App” daherkommen. Auch das JS erhielt in dieser Runde die ersten wichtigen Grundeinstellungen. 
+Das Programmieren unserer App konnte nun offiziell starten.
+10.10.2023 Wir haben den Workflow besprochen. Andrea hat die HTML Struktur von Hand gemacht. 
+
+Learning: 
+Am besten fügen wir die einzelnen CSS Dateien, die wir für jeden einzelnen Slide erstellt haben zusammen. Das kam der Übersichtlichkeit sehr zugute. 
+Ausserdem ist es auch wichtig, dass man eine JS Datei hat, welche man in jedem html Dokument ergänzt.
+
+18.10.2023 Midterm-Präsentation
+Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen der aktuellen Appsituation klar geworden. 
+Diese haben wir notiert und die Tage darauf daran gearbeitet.
+
+Wichtige Quellen und Methoden zur Erweiterung unseres Programmierwissens waren für uns:
+- Die Supabase Dokumentation: z.B in der Programmierung von Javascript bei der Resultate Seite und der Umsetzung der Swipe-Funktion.
+- Mitkommiliton*innen: z.B in der Einstellung der Login/Logout-Funktion oder um das Vier-Augen Prinzip anzuwenden.
+- ChatGPT: z.B Bei diversen Ausführungen via Javascript, um mehr Möglichkeiten der Gestaltung durch CSS zu erhalten.
+- Slides vom Unterricht: zur Einrichtung unseres Accounts und Orientierung zwischen den Programmen in der Startphase.
+
+Reflexion:
+Die Entwicklung unserer App stellte uns vor viele Herausforderungen und Hürden, die es zu überwinden galt. 
+Allen voran waren Javascript und die Verlinkung, URL Public und Supabase, sowie die Login/Logout-Funktionen 
+und die Aktivitätenposts auf der Newactivity-Seite. Verbindungsprobleme traten auch bei den User- und Posttabellen auf. 
+Speziell diese Arbeit raubte viele Nerven und benötigte weitaus mehr Zeit als angedacht. In den letzten Tagen
+haben wir einige Höhen und Tiefen durchlebt. Problematisch war auch die Konstellation. Während der Unterrichtstage
+(Montag/Dienstag) konnte Corinne aufgrund des Minors nicht anwesend sein. Allgemein bereitete dieser Klassenunterschied
+häufig Terminkollisionen vor. Am meisten kamen wir jedoch bei allem rund um die Supabase ins Schwitzen. Vier
+Gruppenmitglieder und zu unserem (und wahrscheinlich auch eurem) Entsetzen besitzt keines davon Programmierfähigkeiten.
+Obwohl es bei HTML und CSS mittlerweile super klappt, bereitet JavaScript und vor allem die Datenbank noch viel
+Arbeit. Wenn wir ehrlich sind, hätten wir das Ganze wohl nicht ohne Hilfe von Mitstudierenden und hauptsächlich
+von ChatGPT geschafft. Doch auch dies zeigte sich teilweise schwierig. Nicht immer konnte uns die KI weiterhelfen. 
+Der aktuelle Stand jedoch ist, wir wissen nun, wie man richtig Fragen stellt, und gleichzeitig haben wir unser Englisch 
+aufgefrischt. Deshalb hier noch einmal in Worten von ChatGPT die Schlussfolgerung: "Zusammenfassend war das Interaktive 
+Medien Projekt nicht nur eine Gelegenheit, unsere technischen Fähigkeiten zu verbessern, sondern auch eine Reise der 
+Kreativität und Zusammenarbeit. Die Herausforderungen haben uns gestärkt, und die Erfolge haben gezeigt, dass harte 
+Arbeit und Teamarbeit zu bemerkenswerten Ergebnissen führen können."
+
+
+
+Abschliessende Erkenntnisse: 
+Früh starten, klar und deutlich miteinander sprechen, - nicht scheuen nochmal nachzufragen. 
+Einander unterstützen - vier Augen sehen häufig mehr als zwei. 
+GPT ist hilfreich aber sieht kann halt nicht alles - verstehen müssen wir es immer noch selbst.

@@ -4,10 +4,10 @@ class Database {
     private static $instance = null;
     private $connection;
 
-    private $host = 'localhost';
-    private $username = 'root';
-    private $password = 'example';
-    private $database = 'parking';
+    private $host = 'l576877-1.web1.fh-htwchur.ch';
+    private $username = '576877_1_1';
+    private $password = 'pOgWDFtl5uJy';
+    private $database = '576877_1_1';
 
     // Privater Konstruktor, um Instanziierung von außen zu verhindern
     private function __construct() {

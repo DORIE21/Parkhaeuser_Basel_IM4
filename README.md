@@ -10,22 +10,16 @@ Den Start der App konnten wir alle gemeinsam machen, danach haben wir uns aufget
 
 16.05.2024
 Nachdem wir uns alle über Github verknüpft hatten, starteten wir mit dem Upload von CSS, HTML und JS Dateien. 
-Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst für CSS zu erstellen. Learning: CSS von Anfang an zusammenfügen, damit nicht zuviele Dateien bestehen.
+Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst für CSS zu erstellen.
 
 
 17.05.2024
-Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
+Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet. Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen der aktuellen Appsituation klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
 
 Learning: 
-Am besten fügen wir die einzelnen CSS Dateien, die wir für jeden einzelnen Slide erstellt haben zusammen. Das kam der Übersichtlichkeit sehr zugute. 
-Ausserdem ist es auch wichtig, dass man eine JS Datei hat, welche man in jedem html Dokument ergänzt.
-
-18.10.2023 Midterm-Präsentation
-Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen der aktuellen Appsituation klar geworden. 
-Diese haben wir notiert und die Tage darauf daran gearbeitet.
+Am besten fügen wir die einzelnen CSS Dateien, die wir für jeden einzelnen Slide erstellt haben zusammen. Das kam der Übersichtlichkeit sehr zugute. Ausserdem ist es auch wichtig, dass man eine JS Datei hat, welche man in jedem html Dokument ergänzt.
 
 Wichtige Quellen und Methoden zur Erweiterung unseres Programmierwissens waren für uns:
-- Die Supabase Dokumentation: z.B in der Programmierung von Javascript bei der Resultate Seite und der Umsetzung der Swipe-Funktion.
 - Mitkommiliton*innen: z.B in der Einstellung der Login/Logout-Funktion oder um das Vier-Augen Prinzip anzuwenden.
 - ChatGPT: z.B Bei diversen Ausführungen via Javascript, um mehr Möglichkeiten der Gestaltung durch CSS zu erhalten.
 - Slides vom Unterricht: zur Einrichtung unseres Accounts und Orientierung zwischen den Programmen in der Startphase.

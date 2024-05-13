@@ -4,18 +4,17 @@ Kurzreflexion zur Datenwebseite der Parkhäuser Basel
 01.05.2024 Beginn und erste Verknüpfungen mit Github. Erste Auseinandersetzung mit der Darstellung, dem Storytellung im Zusammenhang mit dem Thema Parkhäuser.
 02.05.2024 Verküpfung mit der Datenbank und erstellung der DB Struktur anhand der Vorlesung. 15.05 langsames Starten mit dem Styling sprich CSS, HTML und JS Dateien. Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst für CSS zu erstellen. Dies sollte in der Form einer “Dating-App” daherkommen. Auch das JS erhielt in dieser Runde die ersten wichtigen Grundeinstellungen. Das Programmieren unserer App konnte nun offiziell starten. 16.05. Erneutes Besprechen des Workflows da nun die Erarbeitung der Präsentation als auch des weiteren Codens sprich der Gestaltung der Webseite. Learning: CSS von Anfang an zusammenfügen, damit nicht zuviele Dateien bestehen.
 
-18.10.2023
-Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
-
 Planung und Umsetzung:
 Den Start der App konnten wir alle gemeinsam machen, danach haben wir uns aufgeteilt und immer wann es die Zeit bot, programmiert. 
 
-03.10.2023 
+16.05.2024
 Nachdem wir uns alle über Github verknüpft hatten, starteten wir mit dem Upload von CSS, HTML und JS Dateien. 
 Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst für CSS zu erstellen. 
 Dies sollte in der Form einer “Dating-App” daherkommen. Auch das JS erhielt in dieser Runde die ersten wichtigen Grundeinstellungen. 
-Das Programmieren unserer App konnte nun offiziell starten.
-10.10.2023 Wir haben den Workflow besprochen. Andrea hat die HTML Struktur von Hand gemacht. 
+Das Programmieren unserer Webseite konnte nun offiziell starten.
+
+17.05.2024
+Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
 
 Learning: 
 Am besten fügen wir die einzelnen CSS Dateien, die wir für jeden einzelnen Slide erstellt haben zusammen. Das kam der Übersichtlichkeit sehr zugute. 
@@ -32,24 +31,7 @@ Wichtige Quellen und Methoden zur Erweiterung unseres Programmierwissens waren f
 - Slides vom Unterricht: zur Einrichtung unseres Accounts und Orientierung zwischen den Programmen in der Startphase.
 
 Reflexion:
-Die Entwicklung unserer App stellte uns vor viele Herausforderungen und Hürden, die es zu überwinden galt. 
-Allen voran waren Javascript und die Verlinkung, URL Public und Supabase, sowie die Login/Logout-Funktionen 
-und die Aktivitätenposts auf der Newactivity-Seite. Verbindungsprobleme traten auch bei den User- und Posttabellen auf. 
-Speziell diese Arbeit raubte viele Nerven und benötigte weitaus mehr Zeit als angedacht. In den letzten Tagen
-haben wir einige Höhen und Tiefen durchlebt. Problematisch war auch die Konstellation. Während der Unterrichtstage
-(Montag/Dienstag) konnte Corinne aufgrund des Minors nicht anwesend sein. Allgemein bereitete dieser Klassenunterschied
-häufig Terminkollisionen vor. Am meisten kamen wir jedoch bei allem rund um die Supabase ins Schwitzen. Vier
-Gruppenmitglieder und zu unserem (und wahrscheinlich auch eurem) Entsetzen besitzt keines davon Programmierfähigkeiten.
-Obwohl es bei HTML und CSS mittlerweile super klappt, bereitet JavaScript und vor allem die Datenbank noch viel
-Arbeit. Wenn wir ehrlich sind, hätten wir das Ganze wohl nicht ohne Hilfe von Mitstudierenden und hauptsächlich
-von ChatGPT geschafft. Doch auch dies zeigte sich teilweise schwierig. Nicht immer konnte uns die KI weiterhelfen. 
-Der aktuelle Stand jedoch ist, wir wissen nun, wie man richtig Fragen stellt, und gleichzeitig haben wir unser Englisch 
-aufgefrischt. Deshalb hier noch einmal in Worten von ChatGPT die Schlussfolgerung: "Zusammenfassend war das Interaktive 
-Medien Projekt nicht nur eine Gelegenheit, unsere technischen Fähigkeiten zu verbessern, sondern auch eine Reise der 
-Kreativität und Zusammenarbeit. Die Herausforderungen haben uns gestärkt, und die Erfolge haben gezeigt, dass harte 
-Arbeit und Teamarbeit zu bemerkenswerten Ergebnissen führen können."
-
-
+Die Webseite und die API Anzapfung stellte uns vor ein paar Herausforderungen und Hürden, die jedoch mit viel Hingabe und Hilfe immer wieder überwunden werden konnten. Allen voran waren dieVerbindungsprobleme, die ganz zu Anfang beim Verbinden mit dem Server auftrat. Auch mit Filezilla liess sich erstmal keine Lösung finden.
 
 Abschliessende Erkenntnisse: 
 Früh starten, klar und deutlich miteinander sprechen, - nicht scheuen nochmal nachzufragen. 

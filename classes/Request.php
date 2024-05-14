@@ -1,6 +1,6 @@
 <?php
-
-function httpRequest($url) {
+//HTTP Anfrage an URL und wir in Json umgewandelt
+function httpRequest($url) {//definieren von HTTP
     $ch = curl_init($url);
 
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);

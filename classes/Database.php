@@ -42,20 +42,19 @@ class Database {
                 die('Error preparing statement: ' . $this->connection->error);
             }
 
-            // Parameter binden, falls vorhanden
+            // umd die Parameter zu binden, falls vorhanden
             if (!empty($params)) {
                 $types = str_repeat('s', count($params)); // Annahme: alle Parameter sind Strings
                 $stmt->bind_param($types, ...$params);
             }
 
-            // Anweisung ausführen
+            // Code Anweisung ausführen
             $stmt->execute();
 
             // Ergebnis zurückgeben (falls benötigt)
             return $stmt->get_result();
         }
 
-    // Weitere Methoden können nach Bedarf hinzugefügt werden
 
     // Privater Klon, um das Singleton-Muster zu wahren
     private function __clone() {}

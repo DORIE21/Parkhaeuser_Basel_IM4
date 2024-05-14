@@ -1,4 +1,4 @@
-<?php
+<?php //Abfrage von API
 
 require_once('../classes/Database.php');
 require_once('../classes/Request.php');

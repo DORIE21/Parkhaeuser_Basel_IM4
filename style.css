@@ -1,0 +1,64 @@
+:root{
+    --primary-bg: #003049;
+    --secondary-bg: #EAE2B7;
+    --primary-font: #003049;
+}
+
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+
+canvas{
+    width: 200px;
+    height: 200px;
+}
+
+#graphs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+main{
+    /*height: 10rem;*/
+}
+
+.sec-bg{
+    background-color: var(--secondary-bg);
+    height: 140px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header{
+    height: 30px;
+    width: 100%;
+    background-color: var(--primary-bg);
+    vertical-align: middle;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1, h2{
+    font-family: "Source Serif Pro", serif;
+    color: var(--primary-font)
+}
+
+header img{
+    margin-left: 20px;
+}
+
+footer{
+    height: 70px;
+    width: 100%;
+    background-color: var(--primary-bg);
+    position: fixed;
+    bottom: 0;
+}
+

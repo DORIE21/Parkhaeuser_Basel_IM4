@@ -1,5 +1,5 @@
 # Parkheauser Basel
-Kurzreflexion zur Datenwebseite der Parkhäuser Basel
+Reflexion zur Datenwebseite der Parkhäuser Basel
 
 01.05.2024 Beginn und erste Verknüpfungen mit Github. Erste Auseinandersetzung mit der Darstellung, dem Storytellung im Zusammenhang mit dem Thema Parkhäuser.
 02.05.2024 Verküpfung mit der Datenbank und erstellung der DB Struktur anhand der Vorlesung. 15.05 langsames Starten mit dem Styling sprich CSS, HTML und JS Dateien. 

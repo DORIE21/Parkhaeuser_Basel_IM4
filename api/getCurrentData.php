@@ -6,7 +6,7 @@ $db = Database::getInstance();
 
 
 //sql query für die 5 aktuellsten Parkhausdaten
-$sql = "SELECT DISTINCT Location, frei, total FROM `Parkheauser Basel` group by Location ORDER BY created_at DESC LIMIT 5";
+$sql = "SELECT *  FROM `Parkheauser Basel` WHERE id IN(SELECT MAX(id) FROM `Parkheauser Basel` GROUP BY Location) LIMIT 5";
 $stmt = $db->prepare($sql);
 $stmt->execute();
 $data = $stmt->fetchAll(PDO::FETCH_ASSOC);

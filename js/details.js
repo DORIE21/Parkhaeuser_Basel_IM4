@@ -40,6 +40,7 @@ async function main(){
             }]
           },
           options: {
+            responsive: true,
             scales: {
                 y:{
                     max: 100

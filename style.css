@@ -66,6 +66,15 @@ canvas{
     text-align: center;
 }
 
+#graphs div p {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+#graphs div p:hover {
+    font-weight: bold;
+}
+
 
 main {
     padding-bottom: 5rem
@@ -92,7 +101,7 @@ header{
     padding-bottom: 20px;
 }
 
-h1, h2, h3, p,{
+h1, h2, h3, p {
     font-family:  "DM Serif Text", serif;
     color: var(--primary-font)
 }
@@ -190,4 +199,49 @@ div.link{
     justify-content: center;
     justify-items: center;
     text-align: center;
+}
+
+.mobile{
+    display: none;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.link:hover{
+    font-weight: bold;
+}
+
+.footer-text a span:hover{
+    font-weight: bold;
+}
+
+header a:hover{
+    transform: scale(1.05);
+}
+
+@media only screen and (max-width: 650px) {
+
+    .mobile{
+        display: block;
+    }
+    
+    section.sec-bg{
+        display:none;
+        visibility: hidden;
+    }
+    
+    #graph .nav {
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    #team{
+        flex-wrap: wrap
+    }
+
+    .detail div{
+        width: 95% !important;
+    }
 }

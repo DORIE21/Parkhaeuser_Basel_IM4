@@ -10,9 +10,11 @@ async function main(){
         //display settings + weitere HTML elemente
         let maincontainer = document.createElement("div");
         let container = document.createElement("div");
-        container.style.width = "200px"
-        container.style.height = "200px"
+        //container.style.width = "200px"
+        //container.style.height = "200px"
         let cv = document.createElement("canvas");
+        cv.width = 300;
+        cv.height = 300;
         container.appendChild(cv);
         let ctx = cv.getContext("2d");
         
@@ -47,6 +49,25 @@ async function main(){
                     hoverOffset: 4
                 }]
             },
+            options: {
+                cutoutPercentage: 60,
+                responsive: true,
+                plugins: {
+                    doughnutlabel: {
+                        labels: [
+                            {
+                                text: `${free}/${parkhaus.total}`,
+                                font: {
+                                    weight: 'bold'
+                                }
+                            },
+                            {
+                                text: `${Math.floor(free/parkhaus.total*100)} % ausgelastet`
+                            }
+                        ]
+                    }
+                }
+            }
         };
         new Chart(ctx, config);
 

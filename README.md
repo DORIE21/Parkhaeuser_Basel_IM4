@@ -35,4 +35,4 @@ Die Webseite und die API Anzapfung stellte uns vor ein paar Herausforderungen un
 Abschliessende Erkenntnisse: 
 Früh starten, klar und deutlich miteinander sprechen, - nicht scheuen nochmal nachzufragen. 
 Einander unterstützen - vier Augen sehen häufig mehr als zwei. 
-GPT ist hilfreich aber sieht kann halt nicht alles - verstehen müssen wir es immer noch selbst.
+ChatGPT ist hilfreich aber sieht kann halt nicht alles - verstehen müssen wir es immer noch selbst.

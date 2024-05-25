@@ -2,6 +2,8 @@
     --primary-bg: #003049;
     --secondary-bg: #EAE2B7;
     --primary-font: #003049;
+    --secondary-font: #000000;
+    --white-font: #ffffff;
 }
 
 html, body{
@@ -9,27 +11,72 @@ html, body{
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: var(--secondary-font);
+    white-space: nowrap;
+    font-family: "Arial", sans-serif;
+}
+
+a:visited {
+    text-decoration: none;
+    color: var(--secondary-font);
+    font-weight: bold;
+}
 
 canvas{
     width: 200px;
     height: 200px;
 }
 
-#graphs{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+
+#graph .nav{
+    display: flex;
+    flex-wrap: nowrap;
     justify-content: center;
     align-content: center;
     justify-items: center;
+    padding: 1rem 0rem;
+    gap: 2rem;
 }
 
-main{
-    /*height: 10rem;*/
+.nav .link{
+    background-color: var(--primary-bg) !important;
+    
+}
+
+.nav .link a {
+    color: var(--white-font) !important;
+}
+
+#graphs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    padding-top: 2rem;
+}
+
+#graphs div{
+    flex-basis: calc(33.33% - 20px);
+    margin: 10px;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+
+main {
+    padding-bottom: 5rem
+}
+
+#graphs p{
+    cursor:pointer;
 }
 
 .sec-bg{
     background-color: var(--secondary-bg);
-    height: 140px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -45,9 +92,13 @@ header{
     padding-bottom: 20px;
 }
 
-h1, h2{
-    font-family: "Source Serif Pro", serif;
+h1, h2, h3, p,{
+    font-family:  "DM Serif Text", serif;
     color: var(--primary-font)
+}
+
+h2{
+    font-size: 20px;
 }
 
 header img{
@@ -62,3 +113,81 @@ footer{
     bottom: 0;
 }
 
+#team{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 15rem;
+    padding-top:5rem;
+    padding-bottom:3rem;
+}
+
+#team .team-container{
+    min-width: 400px;
+}
+
+#team h3{
+    font-size: 20px;
+}
+
+#team p{
+    font-size: 18px;
+}
+
+
+#team img{
+    width: 15rem;
+}
+
+#back{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    margin: 1rem 1rem;
+}
+
+div.link{
+    background-color: var(--secondary-bg);
+    padding: 0.5rem 4rem;
+    border-radius: 40px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.footer-text{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    padding-top: 2rem;
+}
+ 
+.footer-text a{
+    color:var(--secondary-bg) !important;
+    font-weight: normal !important;
+    font-size: 15px;
+    font-family:  "DM Serif Text", serif;
+    color: var(--primary-font)
+}
+
+.detail{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+
+.detail div{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}

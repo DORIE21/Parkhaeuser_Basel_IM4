@@ -1,5 +1,6 @@
 <?php
 
+//http request funktion
 function httpRequest($url) {
     $ch = curl_init($url);
 

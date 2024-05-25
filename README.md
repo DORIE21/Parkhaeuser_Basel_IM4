@@ -15,6 +15,12 @@ Mithilfe von Chatgpt haben wir dann nach und nach begonnen ein erstes Gerüst f�
 17.05.2024
 Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet. Beim Vorbereiten und Halten unseres Vortrags, sind uns nochmal unsere Schwachstellen der aktuellen Appsituation klar geworden. Diese haben wir notiert und die Tage darauf daran gearbeitet.
 
+UX-Storytelling & Nutzen: 
+Man kennt dieses Szenario, wenn man sich in einer nicht vertrauten Stadt befindet und möglichst schnell ein Parkhaus suchen muss, dass kann rasch stressig werden.
+Unsere Webseite wurde aus einem simplen Grund zusammengestellt, nämlich ein vorhandenes Problem mit einer besseren Übersicht zu lösen. Die Stadt Basel hat rund 17 Parkhäuser. Wir haben uns die Frage gestellt: Wie können wir dieses Angebot für Besucher der Stadt Basel übersichtlicher machen? 
+Als erstens haben wir uns eingegrenzt auf die fünf grössten Parkhäuser der Stadt Basel, aus dem einfachen Grund, wenn man Besucher ist, muss man nicht die Belegung aller 17 Parkhäuser wissen. Das gibt auch wieder eine vereinfachte Übersicht. Wir haben die fünf grössten Parkhäuser ausgewählt und mit den Daten der API die aktuelle Belegung der Einrichtungen zu geben, denn wenn es schnell gehen muss, ist das die beste Lösung dafür. 
+Der Nutzen darin liegt, dass man möglichst schnell den geeigneten Parkplatz finden kann. Braucht man möglichst schnell ein Parkplatz, dann geht man in ein wenig belegtes Parkhaus. Sollte der Parkplatz möglichst nahe des Standortes seines Besuches sein, dann wählt man ein grösseres, dafür aber zentraleres Parkhaus. Aus diesem Grund lautet unser Claim: „Wir finden immer die passende Lücke für dich!“ 
+
 Learning: 
 Am besten fügen wir die einzelnen CSS Dateien, die wir für jeden einzelnen Slide erstellt haben zusammen. Das kam der Übersichtlichkeit sehr zugute. Ausserdem ist es auch wichtig, dass man eine JS Datei hat, welche man in jedem html Dokument ergänzt.
 

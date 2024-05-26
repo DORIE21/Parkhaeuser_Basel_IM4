@@ -1,11 +1,7 @@
 # Reflexion zur Datenwebseite der Parkhäuser Basel
 
-01.05.2024 Beginn und erste Verknüpfungen mit Github. Prototyping via Papier und dann Figma. Erste Auseinandersetzung mit der Darstellung, dem Storytellung im Zusammenhang mit dem Thema Parkhäuser. 02.05.2024 Verküpfung mit der Datenbank und Erstellung der DB Struktur anhand der Vorlesung. Danach haben wir unser Githubdesktop eingerichtet und uns für die Arbeit zuhause abgesprochen. 
-
-Planung und Umsetzung:
-03.05.2024 In der ersten Blockwoche haben wir uns nach der Stoffvermittlung jeweils mit der Einrichtung vom Server und der Database beschäftigt. Wir vernetzten uns via Github desktop und starteten gegen Mitte der Woche mit dem Coden von zuhause aus.
-
-08.05 langsames Starten mit dem Styling sprich CSS, HTML und JS Dateien. 17.05.2024 Beim Vorbereiten und Halten unseres Vortrags, ist uns irgendwie bewusst geworden, dass wir doch einiges verstanden haben. Auch wenn das ganze mühsame Styling noch bevor stand.
+Planung und Umsetzung
+01.05.2024 Beginn und erste Verknüpfungen mit Github. Prototyping via Papier und dann Figma. Erste Auseinandersetzung mit der Darstellung, dem Storytellung im Zusammenhang mit dem Thema Parkhäuser. 02.05.2024 Verküpfung mit der Datenbank und Erstellung der DB Struktur anhand der Vorlesung. Danach haben wir unser Githubdesktop eingerichtet und uns für die Arbeit zuhause abgesprochen. 03.05.2024 In der ersten Blockwoche haben wir uns nach der Stoffvermittlung jeweils mit der Einrichtung vom Server und der Database beschäftigt. Wir vernetzten uns via Github desktop und starteten gegen Mitte der Woche mit dem Coden von zuhause aus. 08.05 langsames Starten mit dem Styling sprich CSS, HTML und JS Dateien. 17.05.2024 Beim Vorbereiten und Halten unseres Vortrags, ist uns irgendwie bewusst geworden, dass wir doch einiges verstanden haben. Auch wenn das ganze mühsame Styling noch bevor stand.
 
 UX-Storytelling & Nutzen 
 Man kennt dieses Szenario, wenn man sich in einer nicht vertrauten Stadt befindet und möglichst schnell ein Parkhaus suchen muss, dass kann rasch stressig werden. Unsere Webseite wurde aus einem simplen Grund zusammengestellt, nämlich ein vorhandenes Problem mit einer besseren Übersicht zu lösen. Die Stadt Basel hat rund 17 Parkhäuser. Wir haben uns die Frage gestellt: Wie können wir dieses Angebot für Besucher der Stadt Basel übersichtlicher machen? Als erstens haben wir uns eingegrenzt auf die fünf grössten Parkhäuser der Stadt Basel, aus dem einfachen Grund, wenn man Besucher ist, muss man nicht die Belegung aller 17 Parkhäuser wissen. Das gibt auch wieder eine vereinfachte Übersicht. Wir haben die fünf grössten Parkhäuser ausgewählt und mit den Daten der API die aktuelle Belegung der Einrichtungen zu geben, denn wenn es schnell gehen muss, ist das die beste Lösung dafür. Der Vorteil unserer Webseite liegt darin, dass man auch historische Daten von der vergangenen Woche begutachten könnte. 
@@ -35,4 +31,5 @@ Abschliessende persönliche Erkenntnisse:
 Früh starten, klar und deutlich miteinander sprechen, - nicht scheuen nochmal nachzufragen. 
 Einander unterstützen - vier Augen sehen häufig mehr als zwei. 
 Eine Nacht drüber schlafen hilft häufig auch. Einfach immer und immer wieder probieren und schauen was dabei rauskommt. 
-"Untersuchen" ist oft gold wert beim Stylen. ChatGPT ist hilfreich aber sieht auch nicht alles - verstehen müssen wir es immer noch selbst.
+"Untersuchen" ist oft gold wert beim Stylen. 
+ChatGPT ist hilfreich aber sieht auch nicht alles - verstehen müssen wir es immer noch selbst.

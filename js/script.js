@@ -62,7 +62,7 @@ async function main(){
                                 }
                             },
                             {
-                                text: `${Math.floor(free/parkhaus.total*100)} % ausgelastet`
+                                text: `${Math.floor((1-(free/parkhaus.total))*100)} % ausgelastet`
                             }
                         ]
                     }

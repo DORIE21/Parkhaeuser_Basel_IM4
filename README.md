@@ -25,7 +25,7 @@ Für die Labels der Donut Charts brauchten wir ChartJS 2.0 statt 3.0...weil das 
 
 Mobile Version
 
-Als die Responivität endlich passte, gefiel mir aber die Mobilversion noch überhaupt nicht. Ich fing an extra alles nochmal um zu disponieren um es auf dem Handy wesentlich anschaulicher zu machen. Im HTML habe ich dann eine Anweisung programmiert, dass bei mobilen Seiten eben nicht die Desktop Version genommen wurde. Leider ist dann der "hellbraune" Bereich vom Header nicht mehr da, aber das empfand ich eher als angenehm. Der Titel wurde kürzer und praktischer, da bei mobile first die Usability schlicht und einfach im Vordergrund steht. Die klaren Graphen (sowie die Teambiler) die nun untereinander ersichtlich sind, sind für unterwegs absolut selbsterklärend. Finden wir. Auch die Buttons mit 24h und 1 Woche habe ich untereinader angesetzt. 
+Als die Responivität endlich passte, gefiel mir aber die Mobilversion noch überhaupt nicht. Ich fing an extra alles nochmal um zu disponieren um es auf dem Handy wesentlich anschaulicher zu machen. Im HTML habe ich dann eine Anweisung programmiert, dass bei den mobilen Seiten eben nicht die Desktop Version genommen wurde. Dabei ist der  "hellbraune" Bereich vom Header nicht mehr mitgekommen. Am Ende empfand ich es aber eher als angenehm fürs Handy. Der Titel wurde kürzer und praktischer, da bei mobile first die Usability schlicht und einfach im Vordergrund steht. Die klaren Graphen (sowie die Teambiler) die nun untereinander ersichtlich sind, sind für unterwegs absolut selbsterklärend und viiel anschaulicher. Auch die Buttons mit 24h und 1 Woche habe ich untereinader angesetzt. Zudem kam ein "Hover" Effeckt der nochmal verdeutlicht was anklickbar ist.
 
 
 Wichtige Quellen und Methoden zur Umsetzung des Projektes waren:
@@ -42,3 +42,4 @@ Abschliessende persönliche Erkenntnisse
 - Einfach immer und immer wieder probieren und schauen was dabei rauskommt. 
 - "Untersuchen" ist oft gold wert beim Stylen. 
 - ChatGPT ist hilfreich aber sieht auch nicht alles - verstehen müssen wir es immer noch selbst.
+-   Beim Programmieren ist am Ende einfach toll, wie dann alles zusammenkommt und eeendlich funktionert. (Dann wird man dann immer so klimperlich und will alles noch schöner gestalten, schon nur der Mühe des Backends wegen;)
